@@ -12,12 +12,12 @@
 * Params
   ```json
     {
-    "m": "content",
-    "c": "index",
-    "a": "json_event",
-    "page": 0,
-    "pagesize": 40,
-    "month": 10,
-    "day": 16
+      "m": "content",
+      "c": "index",
+      "a": "json_event",
+      "page": 0,
+      "pagesize": 40,
+      "month": 10,
+      "day": 16
     }
   ```
