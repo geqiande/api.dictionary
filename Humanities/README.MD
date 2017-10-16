@@ -15,11 +15,11 @@
   ```javascript
     {
       "m": "content", // default
-      "c": "index", // default
-      "a": "json_event", // default
+      "c": "index", // default
+      "a": "json_event", // default
       "page": 0, // page number
-      "pagesize": 40, // page size
-      "month": 10, // month
-      "day": 16 // day
-    }
+      "pagesize": 40, // page size
+      "month": 10, // month
+      "day": 16 // day
+    }
   ```
