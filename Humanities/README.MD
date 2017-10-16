@@ -1,9 +1,10 @@
 # Humanities 人文相关 api
 
 ### today in History 历史上的今天
-* url `http://www.todayonhistory.com/index.php`
-* type `post` `get`
-* params 
+* Language `zh_cn`
+* Url `http://www.todayonhistory.com/index.php`
+* Type `POST` `GET`
+* Params 
   ```json
   {
     "m": "content",
