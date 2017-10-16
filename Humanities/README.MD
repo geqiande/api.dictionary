@@ -4,7 +4,6 @@
 * Language `zh_cn`
 * Url `http://www.todayonhistory.com/index.php`
 * Type `POST` `GET`
-* Description
 
 * Params 
   ```json
