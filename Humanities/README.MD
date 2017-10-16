@@ -4,7 +4,7 @@
 * url `http://www.todayonhistory.com/index.php`
 * type `post`
 * params 
-  ```json
+  ```javascript
   {
     m: 'content',
     c: 'index',
